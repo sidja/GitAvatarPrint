@@ -1,8 +1,8 @@
 import os
 import getopt 
 import sys
-from bin.canvas_class_test import print_avatar_sheet
-from bin.run_orgs import phase2 
+from lib.canvas_class_test import print_avatar_sheet
+from lib.run_orgs import phase2 
 
 def main(argv):
 	try:
